@@ -1,5 +1,5 @@
 # ENPM690 Homework 4
-Reinforcement learning to play Connect4 game with pytorch.
+Reinforcement learning to play Connect4 game with pytorch. Report can be seen [here](report.pdf)
 
 # Running the Code
 To run the training code use the following commands
